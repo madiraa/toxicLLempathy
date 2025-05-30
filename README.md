@@ -15,4 +15,4 @@ We provide:
 
 ### Prerequisites
 - Python 3.8+
-- OpenAI API key with access to GPT-3.5-turbo and GPT-4 models
+- OpenAI API key with access to GPT-3.5-turbo 
