@@ -8,6 +8,7 @@ Created on Thu May 29 14:52:50 2025
 
 import json
 import time
+import os
 from openai import OpenAI
 from dotenv import load_dotenv
 
