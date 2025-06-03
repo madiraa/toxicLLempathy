@@ -8,10 +8,11 @@ Large Language Models (LLMs) are increasingly used in emotionally sensitive appl
 
 We provide:
 
-- A novel dataset of 65 human-machine teamed confessional prompts 
+- A novel dataset of human-machine teamed confessional prompts 
 - LLM-generated assistant responses using GPT-3.5-turbo
-- A second-stage evaluation pipeline using GPT-4 as a grader to score model responses on **Affirmation**, **Challenge**, and **Accountability**
-- Analytic scripts illustrating how model responses vary by narrative framing and scenario type, and truth vs distortion
+- A second-stage evaluation pipeline using GPT-3.5-turbo as a grader to score model responses on **Affirmation**, **Challenge**, and **Accountability**
+- Analytic ipynb script illustrating how model responses vary by narrative framing and scenario type, and truth vs distortion
+- The most recent version of the research paper
 
 ### Prerequisites
 - Python 3.8+
